@@ -1,0 +1,32 @@
+body {
+    background: #eef;
+    color: #333;
+    text-shadow: #fff 0px 1px 0px;
+    cursor: default;
+}
+
+h1, h2 {
+    color: #338;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer {
+    color: #666;
+}
+
+#container {
+    margin: 50px auto;
+    font-size: 1em;
+    line-height: 1.4;
+    padding: 1em;
+    min-width: 38em;
+    max-width: 70%;
+}
+
+footer {
+    text-align: center;
+}
